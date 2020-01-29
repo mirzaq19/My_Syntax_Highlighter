@@ -13,7 +13,7 @@ To add the needed JS and CSS, you can click the button below! The content of the
 Alternatively, you can head to the Layout tab for your blog, and add an HTML/Javascript gadget, with the following in the Content area.
 
 ```HTML
-<link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/androidstudio.min.css">
+<link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/androidstudio.min.css"/>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 ```
