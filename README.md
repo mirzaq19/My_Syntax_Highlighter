@@ -1,7 +1,10 @@
 # My_Syntax_Highlighter
 Syntax Highlighter Bloger
-Add syntax highlighting to my Blog
+
+## Add syntax highlighting to my Blog
+
 March 01, 2017
+
 Many websites like this one feature a bunch of code snippets, which can be a pain when changing the theme, as you might have manually styled the code chunks. To avoid this, you can add the highlightjs library that does it for you - that way, when you change theme, you only need to tweak one gadget (instead of all of your posts and their snippets.)
 
 To add the needed JS and CSS, you can click the button below! The content of the gadget is shown below.
